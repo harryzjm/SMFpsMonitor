@@ -1,3 +1,7 @@
+<p align="center" >
+  <img src="/SMFpsMonitor.png">
+</p>  
+
 # SMFpsMonitor
 
 A monitor show Fps in the view.window  
